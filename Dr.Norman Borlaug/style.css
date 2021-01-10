@@ -1,0 +1,59 @@
+h1 {
+
+    text-align: center;
+
+
+}
+
+
+body {
+
+background: #eee;
+
+}
+
+body p {
+
+    text-align: center;
+
+
+}
+
+
+
+.figure {
+
+background: white;
+
+}
+
+
+
+
+.img {
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+
+}
+
+.figure figcaption {
+
+text-align: center;
+
+}
+
+.text {
+
+    display:block;
+}
+
+.Last-section {
+
+
+font-size: 20px;
+
+}
+ 
