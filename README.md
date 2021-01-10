@@ -1,0 +1,2 @@
+# Novice-JS
+Not Talented
